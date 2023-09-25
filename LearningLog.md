@@ -19,3 +19,8 @@ Log of my learning progress (21 Sep - 20 Oct 2023)
 
 ### Meta Front-End Developer Professional Certificate
 3. [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/BY3RTLMLJG3K)
+
+## 25 Sep 2023
+
+### Meta Front-End Developer Professional Certificate
+4. [HTML and CSS in depth](https://coursera.org/share/9dcd0765cc1a98fe3509073751eceaec)
