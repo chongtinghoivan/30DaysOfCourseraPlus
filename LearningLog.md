@@ -35,3 +35,8 @@ Log of my learning progress (21 Sep - 20 Oct 2023)
 ### Meta Front-End Developer Professional Certificate
 6. [Advanced React](https://coursera.org/share/d014a3385bff49562bf44f73dfe3f99c)
 
+## 15 Oct 2023
+
+### Meta Front-End Developer Professional Certificate
+7. [Coding Interview Preparation](https://coursera.org/share/09098cbc280ab7873c69f5d9c996d6ce)
+
