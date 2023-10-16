@@ -40,3 +40,7 @@ Log of my learning progress (21 Sep - 20 Oct 2023)
 ### Meta Front-End Developer Professional Certificate
 7. [Coding Interview Preparation](https://coursera.org/share/09098cbc280ab7873c69f5d9c996d6ce)
 
+## 16 Oct 2023
+
+### Meta Back-End Developer Professional Certificate
+1. [Introduction to Databases for Back-End Development](https://coursera.org/share/11e77efddfef89d56a89f01d7fa43cb4)
