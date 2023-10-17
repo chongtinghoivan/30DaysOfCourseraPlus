@@ -44,3 +44,12 @@ Log of my learning progress (21 Sep - 20 Oct 2023)
 
 ### Meta Back-End Developer Professional Certificate
 1. [Introduction to Databases for Back-End Development](https://coursera.org/share/11e77efddfef89d56a89f01d7fa43cb4)
+
+## 17 Oct 2023
+
+### Meta Front-End Developer Professional Certificate
+8. [Principles of UX/UI Design](https://coursera.org/share/036a9287aebcc0eb18725246f985d68e)
+9. [Front-End Developer Capstone](https://coursera.org/share/6fac92885e828c18f39623f384e89ff7)
+10. [Meta Front-End Developer Professional Certificate](https://coursera.org/share/891c7602ad2d6a89f50808b0e5ea9c44)
+
+
